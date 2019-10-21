@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Sample Test Should render App without crashing 1`] = `
+<App>
+  <h1>
+    Welcome to Shop4U
+  </h1>
+</App>
+`;
+
+exports[`Sample Test should render home without crashing 1`] = `
+<App>
+  <h1>
+    Welcome to Shop4U
+  </h1>
+</App>
+`;
